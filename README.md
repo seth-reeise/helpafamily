@@ -1,3 +1,7 @@
+## This is an open source repo I forked and contributed to, to gain more experience with committing code, creatinng and reviewing pull requests and front-end applications in JavaScript.
+
+
+
 # helpafamily.margaritahumanitarian.org
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/d3507a81-2fb2-4b84-91bf-81572286b110/deploy-status)](https://app.netlify.com/sites/helpafamily-margarita-humanitarian/deploys)
